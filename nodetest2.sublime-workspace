@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fsreadfile",
+				"fs.readFile(path, options, callback_);"
+			],
+			[
+				"dns",
+				"dns.getServers();"
+			],
+			[
+				"u",
+				"utf8"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 393.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"subl --help",
+			"subl -h",
+			"-h",
+			"--command",
+			"view.window().run_command(\"prompt_select_project\")",
+			"view.window()/run_command(\"prompt_select_project\")",
+			"view.run_command(\"insert_snippet\", {\"contents\": \"<$SELECTION>\"})",
+			"view.run_command(\"goto_line\", {\"line\": 10})",
+			"view.run_command(\"insert_snippet\", {\"contents\": \"<$SELECTION>\"})",
+			"view.run_command(\"goto_line\", {\"line\": 10})",
+			"view.settings().get(\"setting_name\")",
+			"sublime.version()",
+			"sublime.version(0",
+			"sublime.packages_path()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hao/Documents/vokvag/nodetest2"
+	],
+	"file_history":
+	[
+		"/home/hao/Documents/vokvag/nodetest1/views/userlist.jade",
+		"/home/hao/Documents/vokvag/nodetest1/views/helloworld.jade",
+		"/home/hao/Documents/vokvag/nodetest1/views/newuser.jade",
+		"/home/hao/Documents/vokvag/nodetest1/routes/index.js",
+		"/home/hao/Documents/vokvag/test/package.json",
+		"/home/hao/Documents/vokvag/nodetest1/routes/users.js",
+		"/home/hao/Documents/vokvag/nodetest2/package.json",
+		"/home/hao/Documents/vokvag/nodetest1/app.js",
+		"/home/hao/Documents/vokvag/package.json",
+		"/home/hao/Documents/vokvag/nodetest1/nodetest1.sublime-workspace",
+		"/home/hao/Documents/vokvag/nodetest1/nodetest1.sublime-project",
+		"/home/hao/Documents/nodejs/console_example.sublime-project",
+		"/home/hao/Documents/vokvag/nodetest1/package.json",
+		"/home/hao/Documents/vokvag/nodetest1/views/index.jade",
+		"/home/hao/Documents/vokvag/nodetest1/views/layout.jade",
+		"/home/hao/Documents/vokvag/nodetest1/views/error.jade",
+		"/home/hao/Documents/pyfiles/try.py",
+		"/home/hao/Documents/pyfiles/try.sublime-project",
+		"/home/hao/Documents/pyfiles/try2.py",
+		"/home/hao/Documents/nodejs/net_server.js",
+		"/home/hao/Documents/nodejs/net_client.js",
+		"/home/hao/Documents/nodejs/error_example.js",
+		"/home/hao/Documents/nodejs/dns_example.js",
+		"/home/hao/Documents/nodejs/timer5.js",
+		"/home/hao/Documents/nodejs/node_modules/express/node_modules/qs/lib/stringify.js",
+		"/home/hao/Documents/nodejs/os_example.js",
+		"/home/hao/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/hao/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/hao/Documents/nodejs/tls_client.js",
+		"/home/hao/Documents/nodejs/crypto_example2.js",
+		"/home/hao/Documents/nodejs/crypto_example1.js",
+		"/home/hao/.config/sublime-text-3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/home/hao/.config/sublime-text-3/Packages/User/Nodejs.sublime-settings",
+		"/home/hao/Documents/nodejs/main.js",
+		"/home/hao/Documents/nodejs/timer3.js",
+		"/home/hao/Documents/nodejs/timer2.js",
+		"/home/hao/Documents/nodejs/console_example.js",
+		"/home/hao/Documents/nodejs/timer.js",
+		"/home/hao/Documents/nodejs/global_example.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"^*(console) +(.+)(?=\\()",
+			"platform",
+			"());\n",
+			"totalmem",
+			"loadavg",
+			"arch",
+			"tmpdir",
+			"release",
+			"p",
+			"loadavg",
+			"totalmem",
+			"platform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodetest2.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dn",
+				"dns_example.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 501.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/nodejs/console_example.sublime-project"
+			]
+		],
+		"width": 381.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
